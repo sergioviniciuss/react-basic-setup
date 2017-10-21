@@ -1,15 +1,21 @@
 {
   "name": "react-basic-setup",
   "version": "1.0.0",
-  "description": "Basic react boilerplate",
+  "description": "Basic react boilerplate for SPAs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "webpack",
+    "react"
+  ],
   "author": "Sergio Vinícius de Sá Lucena",
   "license": "ISC",
   "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-react-app": "^3.0.3",
     "webpack": "^3.8.1"
   }
 }
