@@ -16,6 +16,6 @@ Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
 Runs the app in the production mode.<br>
 
-### ***TODO: `npm test`
+### `npm test`
 
-Not available yet: Launches the rest runner.
+The jest utility scans the directory for files with names that end in test or spec, or files in a directory named __tests__.
